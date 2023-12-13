@@ -1,0 +1,1760 @@
+[06-Dec-2023 00:36:09 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 00:36:10 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 00:36:10 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 00:36:10 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 00:36:11 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 00:36:11 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 00:36:11 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 00:36:12 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 00:36:12 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 00:36:12 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 00:36:13 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 00:36:13 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 00:36:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 00:36:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 00:36:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 00:36:16 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 01:07:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 01:07:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 01:07:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 01:07:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 01:07:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 01:07:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 01:07:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 01:07:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 01:07:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 01:07:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 01:07:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 01:07:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 01:07:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 01:07:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 01:07:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 01:07:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 02:55:32 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 02:55:32 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 02:55:32 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 02:55:32 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 02:55:32 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 02:55:32 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 02:55:32 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 02:55:32 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 02:55:32 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 02:55:32 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 02:55:32 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 02:55:32 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 02:55:32 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 02:55:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 02:55:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 02:55:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 05:15:32 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 05:15:32 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 05:15:32 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 05:15:32 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 05:15:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 05:15:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 05:15:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 05:15:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 05:15:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 05:15:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 05:15:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 05:15:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 05:15:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 05:15:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 05:15:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 05:15:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 09:19:26 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 09:19:26 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 09:19:26 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 09:19:26 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 09:19:26 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 09:19:26 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 09:19:26 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 09:19:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 09:19:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 09:19:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 09:19:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 09:19:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 09:19:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 09:19:33 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 09:19:34 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 09:19:34 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 11:03:47 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 11:03:47 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 11:03:47 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 11:03:47 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 11:03:48 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 11:03:48 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 11:03:48 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 11:03:49 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 11:03:49 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 11:03:49 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 11:03:50 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 11:03:50 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 11:03:50 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 11:03:51 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 11:03:51 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 11:03:51 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 13:03:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 13:03:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 13:03:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 13:03:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 13:03:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 13:03:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 13:03:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 13:03:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 13:03:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 13:03:21 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 13:03:21 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 13:03:21 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 13:03:21 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 13:03:21 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 13:03:21 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 13:03:21 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 15:21:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 15:21:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 15:21:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 15:21:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 15:21:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 15:21:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 15:21:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 15:21:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 15:21:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 15:21:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 15:21:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 15:21:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 15:21:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 15:21:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 15:21:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 15:21:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 16:46:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 16:46:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 16:46:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 16:46:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 16:46:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 16:46:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 16:46:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 16:46:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 16:46:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 16:46:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 16:46:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 16:46:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 16:46:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 16:46:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 16:46:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 16:46:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 18:56:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 18:56:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 18:56:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 18:56:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 18:56:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 18:56:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 18:56:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 18:56:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 18:56:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 18:56:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 18:56:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 18:56:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 18:56:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 18:56:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 18:56:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 18:56:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 20:48:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 20:48:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 20:48:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 20:48:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 20:48:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 20:48:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 20:48:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 20:48:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 20:48:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 20:48:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 20:48:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 20:48:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 20:48:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 20:48:16 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 20:48:16 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 20:48:16 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 21:43:04 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 21:43:04 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 21:43:04 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 21:43:04 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 21:43:04 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 21:43:04 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 21:43:07 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 21:43:07 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 22:56:57 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 22:56:57 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[06-Dec-2023 22:56:57 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 22:56:58 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[06-Dec-2023 22:56:58 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 22:56:58 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[06-Dec-2023 22:56:58 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 22:56:58 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[06-Dec-2023 22:56:58 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 22:56:59 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[06-Dec-2023 22:56:59 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 22:56:59 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[06-Dec-2023 22:56:59 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 22:56:59 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[06-Dec-2023 22:56:59 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[06-Dec-2023 22:56:59 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 00:04:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 00:04:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 00:04:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 00:04:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 00:04:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 00:04:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 00:04:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 00:04:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 00:04:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 00:04:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 00:04:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 00:04:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 00:04:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 00:04:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 00:04:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 00:04:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 01:11:37 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 01:11:37 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 01:11:38 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 01:11:38 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 01:11:38 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 01:11:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 01:11:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 01:11:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 01:11:40 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 01:11:40 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 01:11:40 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 01:11:41 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 01:11:41 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 01:11:41 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 01:11:41 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 01:11:45 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 02:11:18 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 02:11:18 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 02:11:19 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 02:11:19 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 02:11:19 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 02:11:19 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 02:11:19 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 02:11:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 02:11:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 02:11:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 02:11:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 02:11:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 02:11:20 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 02:11:21 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 02:11:21 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 02:11:21 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 03:07:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 03:07:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 03:07:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 03:07:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 03:07:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 03:07:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 03:07:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 03:07:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 03:07:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 03:07:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 03:07:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 03:07:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 03:07:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 03:07:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 03:07:39 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 03:07:40 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 04:06:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 04:06:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 04:06:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 04:06:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 04:06:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 04:06:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 04:06:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 04:06:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 04:06:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 04:06:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 04:06:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 04:06:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 04:06:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 04:06:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 04:06:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 04:06:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 05:04:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 05:04:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 05:04:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 05:04:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 05:04:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 05:04:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 05:04:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 05:04:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 05:04:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 05:04:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 05:04:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 05:04:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 05:04:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 05:04:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 05:04:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 05:04:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 06:15:57 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 06:15:58 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 06:15:58 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 06:17:09 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 06:17:09 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 06:17:10 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 06:17:10 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 06:17:10 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 06:17:11 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 06:17:11 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 06:17:11 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 06:17:12 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 06:17:12 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 06:17:12 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 06:17:13 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 06:17:13 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 07:04:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 07:04:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 07:04:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 07:04:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 07:04:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 07:04:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 07:04:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 07:04:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 07:04:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 07:04:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 07:04:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 07:04:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 07:04:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 07:04:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 07:04:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 07:04:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 08:12:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 08:12:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 08:12:05 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 08:12:06 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 08:12:06 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 08:12:06 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 08:12:07 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 08:12:07 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 08:12:07 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 08:12:08 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 08:12:08 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 08:12:08 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 08:12:09 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 08:12:09 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 08:12:10 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 08:12:10 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 09:03:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 09:03:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 09:03:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 09:03:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 09:03:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 09:03:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 09:03:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 09:03:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 09:03:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 09:03:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 09:03:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 09:03:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 09:03:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 09:03:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 09:03:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 09:03:46 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 12:11:10 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 12:11:11 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 12:11:11 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 12:11:11 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 12:11:12 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 12:11:12 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 12:11:12 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 12:11:13 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 12:11:13 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 12:11:13 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 12:11:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 12:11:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 12:11:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 12:11:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 12:11:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 12:11:15 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 13:12:25 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 13:12:25 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 13:12:26 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 13:12:26 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 13:12:26 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 13:12:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 13:12:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 13:12:27 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 13:12:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 13:12:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 13:12:28 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 13:12:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 13:12:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 13:12:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 13:12:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 13:12:30 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 14:10:06 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 14:10:06 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 14:10:07 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 14:10:07 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 14:10:09 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 14:10:10 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 14:10:10 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 14:10:11 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 14:10:11 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 14:10:11 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 14:10:11 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 14:10:11 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 14:10:11 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 14:10:12 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 14:10:12 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 14:10:12 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 15:05:00 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 15:05:00 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 15:05:00 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 15:05:00 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 15:05:01 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 15:05:01 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 15:05:01 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 15:05:01 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 15:05:01 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 15:05:01 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 15:05:01 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 15:05:01 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 15:05:01 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 15:05:01 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 15:05:01 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 15:05:01 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 16:04:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 16:04:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/Controller.php on line 9
+[07-Dec-2023 16:04:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 16:04:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/CvController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/CvController.php on line 11
+[07-Dec-2023 16:04:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 16:04:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/DashboardController.php on line 7
+[07-Dec-2023 16:04:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 16:04:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/EmployeController.php on line 11
+[07-Dec-2023 16:04:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 16:04:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/HomeController.php on line 11
+[07-Dec-2023 16:04:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 16:04:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/ServiceController.php on line 9
+[07-Dec-2023 16:04:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 16:04:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/SettingsController.php on line 8
+[07-Dec-2023 16:04:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
+[07-Dec-2023 16:04:29 Europe/Paris] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/c2251405c/public_html/app/Http/Controllers/UserController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/c2251405c/public_html/app/Http/Controllers/UserController.php on line 8
