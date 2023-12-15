@@ -45,9 +45,9 @@
                     <label class="form-check-label" for="">
                       Mémoriser 
                     </label>
-                  {{-- </div>
-                  <a href="#">Forgot Password</a>
-                </div> --}}
+                   </div>
+                  <a href="#">Mot de passe oublié</a>
+                </div> 
 
                 <div class="form-group">
                   <div class="_btn_04">
@@ -55,6 +55,19 @@
                     </div>
                 </div>
               </form>
+              <div class="form-group nm_lk"><p>connectez-vous avec</p></div>
+
+                <div class="form-group pt-0">
+                  <div class="_social_04">
+                    <ol>
+                      <li><i class="fa fa-facebook"></i></li>
+                      <li><i class="fa fa-twitter"></i></li>
+                      <li><i class="fa fa-google-plus"></i></li>
+                      <li><i class="fa fa-instagram"></i></li>
+                      <li><i class="fa fa-linkedin"></i></li>
+                    </ol>
+                  </div>
+                </div>
           </div>
         </div>
       </div>
